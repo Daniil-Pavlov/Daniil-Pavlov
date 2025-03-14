@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/Daniil-Pavlov/materials/blob/main/gifka.gif" height="300"/></h1>
   
-<h2 align="center">Привет, меня зовут  <a href="https://daniilshat.ru/" target="_blank">Даниил!</a> 
+<h2 align="center">Привет, меня зовут  Даниил!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="center"> <a href="https://t.me/Pavlov_dan">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40">
