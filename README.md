@@ -6,8 +6,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" height="32"/>
 
-🛠️ Languages and Tools :
-📖 Мои проекты:
-👨‍💻 Обо мне:
+🛠️ Языки и инструменты : :
+📝 Мои проекты:
+👨 Обо мне:
 
 
