@@ -2,9 +2,15 @@
   
 <h2 align="center">Привет, меня зовут  <a href="https://daniilshat.ru/" target="_blank">Даниил!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h3 align="center">Я занимаюсь аналитикой данных 📊 </h3>
+<h3 align="center"> <a href="https://t.me/Pavlov_dan">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40">
+</a>
+<a href="mailto:pavlov.daniil2025@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/9554/9554729.png" alt="Email" width="43" height="43">
+</a>  </h3>
 
 👨 Обо мне:
+
 
 📝 Мои проекты:
 
