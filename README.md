@@ -28,6 +28,7 @@
 
 | Название проекта | Описание проекта | Стек |
 |-------------|-------------|-------------|
+| [Анализ показателей интернет-сайта](https://github.com/Daniil-Pavlov/website_performance_analysis) | Анализ результатов проведенного A/B–тестирования новой механики оплаты услуг на сайте с целью определения эффективности изменений и возможности их распространения на всех пользователей |Pandas, Numpy, Seaborn, Matplotlib|
 | [Анализ показателей маркетплейса](https://github.com/Daniil-Pavlov/Marketplace_revenue_analysis)  | Анализ данных работы маркетплейса с целью выявления возможных причин прекращения роста выручки, составления гипотез направленных на улучшение ключевых показателей продукта и оценка их ICE.| Pandas, Numpy, Seaborn, Matplotlib |
 | [Визуализация данных работы службы поддержки](https://public.tableau.com/app/profile/daniil.pavlov/viz/Lesson3_17374745656950/Efficiencyofthesupportservice#1)  | Составление [Dashboard Canvas](https://docs.google.com/document/d/1-QOqNiqAPO-u5eL3ufJxWNcw75ADxB2-/edit?usp=sharing&ouid=112116342655876060490&rtpof=true&sd=true) и оформление дашборда с целью визуализации ключевых метрик по данным работы службы поддержки в системе по бронированию отелей| Tableau  | 
 
