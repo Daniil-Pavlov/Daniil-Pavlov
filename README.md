@@ -29,7 +29,7 @@
 | Название проекта | Описание проекта | Стек |
 |-------------|-------------|-------------|
 | [Анализ показателей маркетплейса](https://github.com/Daniil-Pavlov/Marketplace_revenue_analysis)  | Анализ данных работы маркетплейса с целью выявления возможных причин прекращения роста выручки, составления гипотез направленных на улучшение ключевых показателей продукта и оценка их ICE.| Pandas, Numpy, Seaborn, Matplotlib |
-| [Создание дашборда для визуализации ключевых показателей](https://public.tableau.com/app/profile/daniil.pavlov/viz/Lesson3_17374745656950/Efficiencyofthesupportservice#1)  | Сбор требований, составление Dashboard Canvas и оформление дашборда с целью визуализациии ключевых метрик продукта | Tableau  |
+| [Визуализация данных работы службы поддержки](https://public.tableau.com/app/profile/daniil.pavlov/viz/Lesson3_17374745656950/Efficiencyofthesupportservice#1)  | Составление [Dashboard Canvas](https://docs.google.com/document/d/1-QOqNiqAPO-u5eL3ufJxWNcw75ADxB2-/edit?usp=sharing&ouid=112116342655876060490&rtpof=true&sd=true) и оформление дашборда с целью визуализации ключевых метрик по данным работы службы поддержки в системе по бронированию отелей| Tableau  | 
 
 
 
