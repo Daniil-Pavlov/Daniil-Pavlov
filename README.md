@@ -14,8 +14,15 @@
 
 
 ### 👨 Обо мне:
+Меня зовут Даниил, и я аналитик данных с высшим техническим образованием в области эксплуатации транспортно-технологических машин. Я увлечен анализом данных и использую статистические методы для выявления закономерностей и принятия обоснованных решений.
 
+Я владею инструментами и языками программирования, такими как Python и SQL, а также имею опыт работы с визуализацией данных в Tableau и Redash. Моя цель — применять аналитические навыки для решения сложных задач и поддержки принятия стратегических решений.
 
+Я уверен, что аналитика данных является ключом к успеху в бизнесе, и готов(а) внести свой вклад в вашу команду.
+
+### 🛠️ Языки и инструменты:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40"/><img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40"/><img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Redash-Logo.png" height="40"/><img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40"/>
 ### 📝 Мои проекты:
 
 | Название проекта | Описание проекта | Стек |
@@ -23,9 +30,7 @@
 | [Анализ показателей маркетплейса](https://github.com/Daniil-Pavlov/Marketplace_revenue_analysis)  | Анализ данных работы маркетплейса с целью выявления возможных причин прекращения роста выручки, составления гипотез направленных на улучшение ключевых показателей продукта и оценка их ICE.| pandas, numpy, seaborn, matplotlib |
 | Ячейка 2.1  | Ячейка 2.2  | Ячейка 2.3  |
 
-### 🛠️ Языки и инструменты:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40"/><img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40"/><img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Redash-Logo.png" height="40"/><img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40"/>
 
 
 
