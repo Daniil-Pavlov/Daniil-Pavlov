@@ -7,7 +7,7 @@
 </a>
 <a href="mailto:pavlov.daniil2025@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/9554/9554729.png" alt="Email" width="43" height="43">
-</a> <a href="tel:+79951939923">
+</a> <a href="https://github.com/Daniil-Pavlov/materials/blob/main/phone.png">
     <img src="https://cdn-icons-png.flaticon.com/512/10542/10542630.png" alt="Позвонить" width="43" height="43">
 </a> </h3>
 
